@@ -14,7 +14,7 @@ For this assignment you will use an API to get a JSON response and convert it to
 
 4. Create a class (in the same directory as your `App.java`) to model the JSON response.
 
-5. Adjust the starter code so that it converts the JSON string into your object.
+5. Add to the starter code so that it converts the JSON string into your object.
 
 6. Print the name and the estimated age. For example: `"king is 45 years old"`.
 
